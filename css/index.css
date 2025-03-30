@@ -7,7 +7,7 @@ body{
 	line-height: 1.7;
 	color: #ececee;
 	background-color: #000000;
-    overflow-x: hidden;
+    overflow: hidden;
     background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/pat-back.svg');
     background-position: center;
     background-repeat: repeat;
@@ -490,7 +490,6 @@ to { box-shadow: 0 0 100px 15px #F4F6AD; }
 }
 
 .app {
-  margin-top: 200px;
   min-width: 100vw;
   min-height: 100vh;
   display: flex;
