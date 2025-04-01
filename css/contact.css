@@ -1,5 +1,6 @@
 html,body{
   background-color:#010A19;
+  overflow-x:hidden;
 }
 
 .logo img{
